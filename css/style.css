@@ -1,0 +1,72 @@
+body{
+   
+   background-color:powderblue
+}
+.marginRight{
+    margin-right: 50px !important;
+}
+.bgImage{
+    background-image: url('../images/corona_counterfeit.jpg');
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:cover; 
+    height: 400px;
+     
+}
+.white{
+    color: white !important;
+}
+.bg-color{
+    background-color:deepskyblue;
+}
+.text-color{
+    color: blue;
+}
+ul li  {
+    list-style-type: none;
+}
+.card-shadow{
+    box-shadow: 0 10px 20px rgba(0,0,0,0.6), 0 10px 20px rgba(0,0,0,0.6);
+  }
+  .img-shadow{
+    box-shadow: 0 5px 10px rgba(0,0,0,0.6), 0 5px 10px rgba(0,0,0,0.6);
+  }
+  .text-shadow {
+    color:white;
+    text-shadow: 2px 2px 3px black;
+  }
+  .text-shadow1 {
+    color:black;
+    text-shadow: 1px 1px 1px black;
+  }
+  .text-shadow2 {
+    color:black;
+    text-shadow: 1px 1px 1px white;
+  }
+
+  
+.card1:hover{
+    transform: scale(1.01);
+  box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+  }
+.ul-shadow{
+    color:blue;
+    text-shadow: 1px 1px 1px white;
+  }
+
+ 
+   .card-rounded{
+    border-radius: 3%;
+  }
+  .img-rounded{
+    border-radius: 3%;
+  }
+  .accordionColor{
+    background-color: aquamarine;
+  }
+
+  .colorGray{
+    background-color:rgb(151, 146, 146) !important;
+  }
+
+  
